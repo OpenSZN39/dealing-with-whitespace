@@ -10,7 +10,7 @@ html {
 
 body {
   color: #222;
-  margin: 0 0 1.3rem;
+  margin: 0;
 }
 
 article {
@@ -45,8 +45,7 @@ blockquote {
   color: #999;
   font-size: 1.125rem;
   padding: .5em;
-  background-color: #555;
-  }
+}
 
 .quote {
   margin: 0;
